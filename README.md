@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2032-two-out-of-three](https://github.com/subham120/LeetCode/tree/master/2032-two-out-of-three) |
 | [2716-minimize-string-length](https://github.com/subham120/LeetCode/tree/master/2716-minimize-string-length) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/subham120/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/subham120/LeetCode/tree/master/3731-find-missing-elements) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2032-two-out-of-three](https://github.com/subham120/LeetCode/tree/master/2032-two-out-of-three) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/subham120/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/subham120/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/subham120/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2032-two-out-of-three](https://github.com/subham120/LeetCode/tree/master/2032-two-out-of-three) |
 <!---LeetCode Topics End-->
