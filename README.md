@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2032-two-out-of-three](https://github.com/subham120/LeetCode/tree/master/2032-two-out-of-three) |
 | [2716-minimize-string-length](https://github.com/subham120/LeetCode/tree/master/2716-minimize-string-length) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/subham120/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/subham120/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/subham120/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-two-out-of-three](https://github.com/subham120/LeetCode/tree/master/2032-two-out-of-three) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/subham120/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/subham120/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/subham120/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/subham120/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/subham120/LeetCode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -46,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/subham120/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/subham120/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 <!---LeetCode Topics End-->
