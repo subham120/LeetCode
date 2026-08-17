@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2032-two-out-of-three](https://github.com/subham120/LeetCode/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/subham120/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2595-number-of-even-and-odd-bits](https://github.com/subham120/LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
 ## Math
 |  |
 | ------- |
