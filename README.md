@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0821-shortest-distance-to-a-character](https://github.com/subham120/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/subham120/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/subham120/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [2032-two-out-of-three](https://github.com/subham120/LeetCode/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/subham120/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/subham120/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/subham120/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/subham120/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [2733-neither-minimum-nor-maximum](https://github.com/subham120/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/subham120/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/subham120/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
