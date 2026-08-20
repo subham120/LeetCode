@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/subham120/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/subham120/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2733-neither-minimum-nor-maximum](https://github.com/subham120/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/subham120/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/subham120/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/subham120/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/subham120/LeetCode/tree/master/3731-find-missing-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/subham120/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/subham120/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/subham120/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
