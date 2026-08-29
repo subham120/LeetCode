@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/subham120/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/subham120/LeetCode/tree/master/2716-minimize-string-length) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/subham120/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3663-find-the-least-frequent-digit](https://github.com/subham120/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/subham120/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/subham120/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/subham120/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/subham120/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subham120/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/subham120/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/subham120/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/subham120/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/subham120/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/subham120/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/subham120/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/subham120/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/subham120/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3663-find-the-least-frequent-digit](https://github.com/subham120/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/subham120/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sorting
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/subham120/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/subham120/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/subham120/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3663-find-the-least-frequent-digit](https://github.com/subham120/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3908-valid-digit-number](https://github.com/subham120/LeetCode/tree/master/3908-valid-digit-number) |
 ## Enumeration
 |  |
