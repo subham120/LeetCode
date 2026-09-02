@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/subham120/LeetCode/tree/master/2716-minimize-string-length) |
 | [2788-split-strings-by-separator](https://github.com/subham120/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/subham120/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3798-largest-even-number](https://github.com/subham120/LeetCode/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/subham120/LeetCode/tree/master/3856-trim-trailing-vowels) |
 ## Array
 |  |
