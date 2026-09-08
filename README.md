@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/subham120/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/subham120/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/subham120/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3870-count-commas-in-range](https://github.com/subham120/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3908-valid-digit-number](https://github.com/subham120/LeetCode/tree/master/3908-valid-digit-number) |
 ## Enumeration
 |  |
