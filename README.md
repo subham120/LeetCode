@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/subham120/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/subham120/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/subham120/LeetCode/tree/master/2716-minimize-string-length) |
+| [3483-unique-3-digit-even-numbers](https://github.com/subham120/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/subham120/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3663-find-the-least-frequent-digit](https://github.com/subham120/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/subham120/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subham120/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/subham120/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3452-sum-of-good-numbers](https://github.com/subham120/LeetCode/tree/master/3452-sum-of-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/subham120/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3663-find-the-least-frequent-digit](https://github.com/subham120/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/subham120/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/subham120/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/subham120/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/subham120/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/subham120/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/subham120/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/subham120/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
