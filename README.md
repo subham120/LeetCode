@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/subham120/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/subham120/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/subham120/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2315-count-asterisks](https://github.com/subham120/LeetCode/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/subham120/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/subham120/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2716-minimize-string-length](https://github.com/subham120/LeetCode/tree/master/2716-minimize-string-length) |
