@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/subham120/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3798-largest-even-number](https://github.com/subham120/LeetCode/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/subham120/LeetCode/tree/master/3856-trim-trailing-vowels) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/subham120/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Array
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/subham120/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/subham120/LeetCode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/subham120/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/subham120/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Simulation
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0821-shortest-distance-to-a-character](https://github.com/subham120/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/subham120/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/subham120/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Prefix Sum
 |  |
 | ------- |
