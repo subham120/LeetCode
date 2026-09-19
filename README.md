@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/subham120/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/subham120/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2716-minimize-string-length](https://github.com/subham120/LeetCode/tree/master/2716-minimize-string-length) |
+| [2785-sort-vowels-in-a-string](https://github.com/subham120/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2788-split-strings-by-separator](https://github.com/subham120/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [3174-clear-digits](https://github.com/subham120/LeetCode/tree/master/3174-clear-digits) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/subham120/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/subham120/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2578-split-with-minimum-sum](https://github.com/subham120/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/subham120/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2785-sort-vowels-in-a-string](https://github.com/subham120/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/subham120/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/subham120/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/subham120/LeetCode/tree/master/3731-find-missing-elements) |
