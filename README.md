@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/subham120/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2788-split-strings-by-separator](https://github.com/subham120/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [3174-clear-digits](https://github.com/subham120/LeetCode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/subham120/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/subham120/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3798-largest-even-number](https://github.com/subham120/LeetCode/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/subham120/LeetCode/tree/master/3856-trim-trailing-vowels) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/subham120/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subham120/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/subham120/LeetCode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/subham120/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
