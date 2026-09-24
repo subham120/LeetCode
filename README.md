@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/subham120/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subham120/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/subham120/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/subham120/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3452-sum-of-good-numbers](https://github.com/subham120/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/subham120/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3663-find-the-least-frequent-digit](https://github.com/subham120/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
