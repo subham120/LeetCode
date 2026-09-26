@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/subham120/LeetCode/tree/master/2032-two-out-of-three) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/subham120/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/subham120/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2399-check-distances-between-same-letters](https://github.com/subham120/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 | [2716-minimize-string-length](https://github.com/subham120/LeetCode/tree/master/2716-minimize-string-length) |
 | [3483-unique-3-digit-even-numbers](https://github.com/subham120/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/subham120/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/subham120/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2315-count-asterisks](https://github.com/subham120/LeetCode/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/subham120/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2399-check-distances-between-same-letters](https://github.com/subham120/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/subham120/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2716-minimize-string-length](https://github.com/subham120/LeetCode/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/subham120/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/subham120/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/subham120/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2317-maximum-xor-after-operations](https://github.com/subham120/LeetCode/tree/master/2317-maximum-xor-after-operations) |
+| [2399-check-distances-between-same-letters](https://github.com/subham120/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/subham120/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/subham120/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2733-neither-minimum-nor-maximum](https://github.com/subham120/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
