@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/subham120/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/subham120/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/subham120/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/subham120/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2315-count-asterisks](https://github.com/subham120/LeetCode/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/subham120/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/subham120/LeetCode/tree/master/2399-check-distances-between-same-letters) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/subham120/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/subham120/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/subham120/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/subham120/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subham120/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/subham120/LeetCode/tree/master/3174-clear-digits) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/subham120/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
