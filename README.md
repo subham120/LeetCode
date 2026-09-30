@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/subham120/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/subham120/LeetCode/tree/master/1952-three-divisors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/subham120/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2317-maximum-xor-after-operations](https://github.com/subham120/LeetCode/tree/master/2317-maximum-xor-after-operations) |
 | [2544-alternating-digit-sum](https://github.com/subham120/LeetCode/tree/master/2544-alternating-digit-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/subham120/LeetCode/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/subham120/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/subham120/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
@@ -181,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/subham120/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3174-clear-digits](https://github.com/subham120/LeetCode/tree/master/3174-clear-digits) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/subham120/LeetCode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/subham120/LeetCode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/subham120/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
