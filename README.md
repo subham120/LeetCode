@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/subham120/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/subham120/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subham120/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1408-string-matching-in-an-array](https://github.com/subham120/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1544-make-the-string-great](https://github.com/subham120/LeetCode/tree/master/1544-make-the-string-great) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/subham120/LeetCode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1903-largest-odd-number-in-string](https://github.com/subham120/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/subham120/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subham120/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/subham120/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1408-string-matching-in-an-array](https://github.com/subham120/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/subham120/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1991-find-the-middle-index-in-array](https://github.com/subham120/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2032-two-out-of-three](https://github.com/subham120/LeetCode/tree/master/2032-two-out-of-three) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/subham120/LeetCode/tree/master/1952-three-divisors) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/subham120/LeetCode/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
