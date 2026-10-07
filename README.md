@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/subham120/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subham120/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/subham120/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3206-alternating-groups-i](https://github.com/subham120/LeetCode/tree/master/3206-alternating-groups-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/subham120/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/subham120/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3452-sum-of-good-numbers](https://github.com/subham120/LeetCode/tree/master/3452-sum-of-good-numbers) |
@@ -212,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/subham120/LeetCode/tree/master/1408-string-matching-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3206-alternating-groups-i](https://github.com/subham120/LeetCode/tree/master/3206-alternating-groups-i) |
 <!---LeetCode Topics End-->
