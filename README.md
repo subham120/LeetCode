@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/subham120/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/subham120/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 | [2716-minimize-string-length](https://github.com/subham120/LeetCode/tree/master/2716-minimize-string-length) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/subham120/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/subham120/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/subham120/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3663-find-the-least-frequent-digit](https://github.com/subham120/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/subham120/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/subham120/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2716-minimize-string-length](https://github.com/subham120/LeetCode/tree/master/2716-minimize-string-length) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/subham120/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/subham120/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2788-split-strings-by-separator](https://github.com/subham120/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [3174-clear-digits](https://github.com/subham120/LeetCode/tree/master/3174-clear-digits) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/subham120/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/subham120/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2733-neither-minimum-nor-maximum](https://github.com/subham120/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/subham120/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/subham120/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subham120/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/subham120/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/subham120/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/subham120/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/subham120/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/subham120/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subham120/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/subham120/LeetCode/tree/master/3174-clear-digits) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/subham120/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
