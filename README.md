@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subham120/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/subham120/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2032-two-out-of-three](https://github.com/subham120/LeetCode/tree/master/2032-two-out-of-three) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/subham120/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/subham120/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/subham120/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subham120/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/subham120/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/subham120/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/subham120/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/subham120/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1550-three-consecutive-odds](https://github.com/subham120/LeetCode/tree/master/1550-three-consecutive-odds) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subham120/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/subham120/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/subham120/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2351-first-letter-to-appear-twice](https://github.com/subham120/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/subham120/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
