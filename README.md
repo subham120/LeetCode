@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/subham120/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/subham120/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/subham120/LeetCode/tree/master/2788-split-strings-by-separator) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/subham120/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subham120/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/subham120/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3206-alternating-groups-i](https://github.com/subham120/LeetCode/tree/master/3206-alternating-groups-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-maximum-xor-after-operations](https://github.com/subham120/LeetCode/tree/master/2317-maximum-xor-after-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/subham120/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/subham120/LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/subham120/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Math
 |  |
 | ------- |
