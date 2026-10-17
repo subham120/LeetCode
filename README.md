@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/subham120/LeetCode/tree/master/3174-clear-digits) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/subham120/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3498-reverse-degree-of-a-string](https://github.com/subham120/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/subham120/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/subham120/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/subham120/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/subham120/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/subham120/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/subham120/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3908-valid-digit-number](https://github.com/subham120/LeetCode/tree/master/3908-valid-digit-number) |
 ## Enumeration
