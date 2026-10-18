@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/subham120/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subham120/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/subham120/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subham120/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/subham120/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/subham120/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/subham120/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subham120/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/subham120/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3206-alternating-groups-i](https://github.com/subham120/LeetCode/tree/master/3206-alternating-groups-i) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subham120/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
