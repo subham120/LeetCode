@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/subham120/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/subham120/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/subham120/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/subham120/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/subham120/LeetCode/tree/master/1544-make-the-string-great) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/subham120/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1763-longest-nice-substring](https://github.com/subham120/LeetCode/tree/master/1763-longest-nice-substring) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/subham120/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/subham120/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/subham120/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/subham120/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/subham120/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3884-first-matching-character-from-both-ends](https://github.com/subham120/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/subham120/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/subham120/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/subham120/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sliding Window
 |  |
 | ------- |
