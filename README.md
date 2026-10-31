@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/subham120/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/subham120/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/subham120/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/subham120/LeetCode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 ## Math
 |  |
 | ------- |
