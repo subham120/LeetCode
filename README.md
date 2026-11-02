@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/subham120/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/subham120/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/subham120/LeetCode/tree/master/3731-find-missing-elements) |
+| [3803-count-residue-prefixes](https://github.com/subham120/LeetCode/tree/master/3803-count-residue-prefixes) |
 | [3866-first-unique-even-element](https://github.com/subham120/LeetCode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/subham120/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/subham120/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3798-largest-even-number](https://github.com/subham120/LeetCode/tree/master/3798-largest-even-number) |
+| [3803-count-residue-prefixes](https://github.com/subham120/LeetCode/tree/master/3803-count-residue-prefixes) |
 | [3856-trim-trailing-vowels](https://github.com/subham120/LeetCode/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/subham120/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/subham120/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
