@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/subham120/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/subham120/LeetCode/tree/master/3731-find-missing-elements) |
 | [3803-count-residue-prefixes](https://github.com/subham120/LeetCode/tree/master/3803-count-residue-prefixes) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/subham120/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/subham120/LeetCode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/subham120/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/subham120/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3833-count-dominant-indices](https://github.com/subham120/LeetCode/tree/master/3833-count-dominant-indices) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/subham120/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/subham120/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/subham120/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3903-smallest-stable-index-i](https://github.com/subham120/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/subham120/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3663-find-the-least-frequent-digit](https://github.com/subham120/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/subham120/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/subham120/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/subham120/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
