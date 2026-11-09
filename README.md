@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/subham120/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/subham120/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/subham120/LeetCode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
+| [3827-count-monobit-integers](https://github.com/subham120/LeetCode/tree/master/3827-count-monobit-integers) |
 ## Math
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/subham120/LeetCode/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/subham120/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/subham120/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3827-count-monobit-integers](https://github.com/subham120/LeetCode/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/subham120/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/subham120/LeetCode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Greedy
