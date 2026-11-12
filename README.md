@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/subham120/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/subham120/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/subham120/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/subham120/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/subham120/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1550-three-consecutive-odds](https://github.com/subham120/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/subham120/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/subham120/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/subham120/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/subham120/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/subham120/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
