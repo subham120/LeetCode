@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/subham120/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/subham120/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3908-valid-digit-number](https://github.com/subham120/LeetCode/tree/master/3908-valid-digit-number) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/subham120/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/subham120/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/subham120/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/subham120/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/subham120/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
