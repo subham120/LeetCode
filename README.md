@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3452-sum-of-good-numbers](https://github.com/subham120/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/subham120/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3663-find-the-least-frequent-digit](https://github.com/subham120/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/subham120/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/subham120/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/subham120/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/subham120/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/subham120/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/subham120/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/subham120/LeetCode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/subham120/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3827-count-monobit-integers](https://github.com/subham120/LeetCode/tree/master/3827-count-monobit-integers) |
 ## Math
 |  |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/subham120/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Brainteaser
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/subham120/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
