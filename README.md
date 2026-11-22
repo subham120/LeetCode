@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/subham120/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/subham120/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/subham120/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/subham120/LeetCode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/subham120/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/subham120/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subham120/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/subham120/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/subham120/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/subham120/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/subham120/LeetCode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/subham120/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/subham120/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Prefix Sum
