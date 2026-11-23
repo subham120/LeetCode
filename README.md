@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/subham120/LeetCode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1903-largest-odd-number-in-string](https://github.com/subham120/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/subham120/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2027-minimum-moves-to-convert-string](https://github.com/subham120/LeetCode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/subham120/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/subham120/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/subham120/LeetCode/tree/master/2129-capitalize-the-title) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/subham120/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2027-minimum-moves-to-convert-string](https://github.com/subham120/LeetCode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/subham120/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/subham120/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/subham120/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
