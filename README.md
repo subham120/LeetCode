@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/subham120/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0806-number-of-lines-to-write-string](https://github.com/subham120/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/subham120/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/subham120/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/subham120/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subham120/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/subham120/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/subham120/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
